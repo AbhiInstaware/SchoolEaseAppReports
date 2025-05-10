@@ -8,3 +8,4 @@ Fee_Head_Chart_Summ_F1.rpt
 Fee_Head_Chart_Summ_F2.rpt
 Admit_Card_Fomat5.rpt
 Desk_Slip.rpt
+Icard_Model1.rpt
