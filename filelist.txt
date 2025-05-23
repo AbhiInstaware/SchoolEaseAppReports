@@ -12,3 +12,5 @@ Icard_Model1.rpt
 DUE.rpt
 Admission_Form.rpt
 Adm_Form.rpt
+ClassStudent11.rpt
+ClassStudent11_ID.rpt
