@@ -16,3 +16,8 @@ ClassStudent11.rpt
 ClassStudent11_ID.rpt
 Icard_Model1_a.rpt
 Icard_Format2.rpt
+multipule.rpt
+multipule1.rpt
+multipule2.rpt
+multipule3.rpt
+multipule4.rpt
