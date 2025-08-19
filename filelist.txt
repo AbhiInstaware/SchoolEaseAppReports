@@ -22,3 +22,6 @@ multipule2.rpt
 multipule3.rpt
 multipule4.rpt
 BusStudent.rpt
+Bus_Detail.rpt
+Bus_List.rpt
+Driver_List.rpt
