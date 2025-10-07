@@ -29,3 +29,5 @@ Route_List.rpt
 SPC_CATE1_Summary.rpt
 Fee_Chart.rpt
 DUE_L.rpt
+Class_student.rpt
+Class_student_N.rpt
