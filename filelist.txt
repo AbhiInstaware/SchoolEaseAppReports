@@ -31,3 +31,4 @@ Fee_Chart.rpt
 DUE_L.rpt
 Class_student.rpt
 Class_student_N.rpt
+DUE_F1.rpt
