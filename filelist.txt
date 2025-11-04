@@ -32,3 +32,5 @@ DUE_L.rpt
 Class_student.rpt
 Class_student_N.rpt
 DUE_F1.rpt
+DUE_L_F2.rpt
+mark_chart_hf.rpt
