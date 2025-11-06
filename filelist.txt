@@ -34,3 +34,5 @@ Class_student_N.rpt
 DUE_F1.rpt
 DUE_L_F2.rpt
 mark_chart_hf.rpt
+Doc_Status.rpt
+Doc_StatusF2.rpt
