@@ -37,3 +37,5 @@ mark_chart_hf.rpt
 Doc_Status.rpt
 Doc_StatusF2.rpt
 Doc_StatusF3.rpt
+Doc_StatusF4.rpt
+Doc_Summ.rpt
