@@ -39,3 +39,5 @@ Doc_StatusF2.rpt
 Doc_StatusF3.rpt
 Doc_StatusF4.rpt
 Doc_Summ.rpt
+Survey_Rpt1.rpt
+Survey_Rpt2.rpt
