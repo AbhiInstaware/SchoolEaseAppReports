@@ -44,3 +44,5 @@ Survey_Rpt2.rpt
 Mis_Receipt.rpt
 Survey_Form.rpt
 Historical_Data.rpt
+Stu_Ledger.rpt
+Stu_Ledger1.rpt
