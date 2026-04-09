@@ -49,3 +49,4 @@ Stu_Ledger1.rpt
 Subtrial2.rpt
 Mark_Chart_Grd.rpt
 Att_Sheet.rpt
+Sale_Rpt.rpt
